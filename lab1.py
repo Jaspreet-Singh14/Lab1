@@ -7,3 +7,8 @@ def calculate_age():
         print("Please enter a valid integer for the birth year.")
 
 calculate_age()
+
+def helloWorld():
+    print('Hello World')
+
+helloWorld()
